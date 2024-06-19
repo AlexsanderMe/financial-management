@@ -4,7 +4,7 @@ This project is a Python-based financial management system that allows users to 
 
 ## Features
 
-- **Add and Remove Entries**: Users can add income and expense entries with descriptions and amounts.
+- **Add and Remove Entries**: Users can add income and expense entries with descriptions and amounts. Press the del key to delete an entry.
 - **Categorization**: Entries are categorized as income or expenses.
 - **Monthly and Yearly Views**: Entries are automatically organized by year and month.
 - **Graphical Representation**: A bar chart displays the monthly income and expenses.
