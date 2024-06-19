@@ -8,6 +8,7 @@ This project is a Python-based financial management system that allows users to 
 - **Categorization**: Entries are categorized as income or expenses.
 - **Monthly and Yearly Views**: Entries are automatically organized by year and month.
 - **Graphical Representation**: A bar chart displays the monthly income and expenses.
+- **Financial Summary:** Displays financial summaries, including total expenses, current month's balance, gross balance, and the total balance for all months.
 - **User Interface**: Intuitive UI for easy interaction.
 
 <div align='left'>
